@@ -3,7 +3,7 @@
 #include<conio.h>
 #include <stdlib.h>
 #include <time.h>
-//time delay finction
+//time delay finction with
 void delay(int number_of_seconds)
 {
     // Converting time into milli_seconds
